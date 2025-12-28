@@ -1,90 +1,114 @@
-<h1 align="center">Hi 👋, I'm Divyansh Yadav</h1>
-<h3 align="center">🚀 Aspiring Cybersecurity Expert | Node.js Developer | Linux Enthusiast</h3>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=230&section=header&text=Divyansh%20Yadav&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+<!-- TYPING -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Vibe+C%C3%B8der+%F0%9F%8E%A7;Cybersecurity+Enthusiast;Node.js+Backend+Developer;Linux+%26+Server+Explorer;Aspiring+CISO" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 **Class 11 Student** | Humanities + Mathematics + Information Practices  
-- 🏆 **Subject Topper (IT)** in Classes 7, 8 & 9  
-- 🔐 Passionate about **Cybersecurity, Servers & Networking**
-- 💻 Building real-world projects using **Node.js & Linux**
-- 🎯 Career Goal: **Chief Information Security Officer (CISO)**
+I am a **Vibe Coder 🎧** who enjoys building **secure, efficient, and real-world systems**.  
+My interests lie in **backend engineering, Linux servers, and cybersecurity**, with a long-term vision of contributing to **enterprise-scale secure infrastructures**.
+
+- 💻 Backend & System-focused Developer  
+- 🔐 Cybersecurity & Networking Enthusiast  
+- 🖥️ Linux & Server Infrastructure Explorer  
+- 🎯 Career Goal: **Chief Information Security Officer (CISO)**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack & Tools
 
-### 💻 Programming & Scripting
-- JavaScript (Node.js)
-- Python
-- Bash / Shell
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/> <b>JavaScript</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/> <b>Python</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="34"/> <b>Bash / Shell</b>
+</p>
 
-### 🌐 Web & Backend
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
+### 🌐 Backend & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/> <b>Node.js</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="34"/> <b>Express.js</b>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34"/> <b>MongoDB</b>
+</p>
 
 ### 🖥️ Systems & DevOps
-- Linux (Ubuntu)
-- Nginx
-- Squid Proxy
-- Git & GitHub
-
-### 🔐 Cybersecurity
-- Network Security Basics
-- Proxy & Traffic Filtering
-- System Hardening
-- Ethical Security Research
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34"/> <b>Linux (Ubuntu)</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="34"/> <b>Nginx</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34"/> <b>Git</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34"/> <b>GitHub</b>
+</p>
 
 ---
 
-## 📌 Current Focus
+## 🚀 Current Focus
 
-- 🔎 Deep Learning in **Cybersecurity**
-- 🧠 Networking & Server Architecture
-- ⚙️ Automation with Node.js
-- 🌍 Open-source Contributions
+- 🔐 Strengthening **Cybersecurity foundations**
+- 🌐 **Networking & server architecture**
+- ⚙️ Backend automation using **Node.js**
+- 🧠 Learning through **real systems, not tutorials**
 
 ---
 
-## 📂 Featured Projects
+## 📁 Highlighted Work
 
-- 🔹 **School Daily Updates Website**
-- 🔹 **Proxy Server with Content Filtering**
-- 🔹 **Node.js Automation Tools**
-- 🔹 **Educational Tech Simulations (In Progress)**
+- 🏫 **School Daily Updates Web Platform**
+- 🔐 **Secure Proxy Server with Content Filtering**
+- 🤖 **Node.js Automation Utilities**
+- 📚 **Educational Tech Platform (In Progress)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=divyanshyadav2828&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshyadav2828&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshyadav2828&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<p align="center">
+  <a href="https://github.com/divyanshyadav2828">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/divyansh-yadav-d928634/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/divyansh_yadav.28/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Motto
-> **"Secure the systems today, lead the technology tomorrow."**
+## 📧 Contact
 
-⭐ *If you like my work, consider starring my repositories!*
+- 🏫 **School Email:** di4836@vidyagyan.in  
+- 📩 **Personal Email:** divyanshyadav2828@gmail.com  
+
+---
+
+## ⚡ Code Philosophy
+
+> **“Build with vibe. Secure with discipline.”**
+
+---
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
