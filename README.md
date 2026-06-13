@@ -121,7 +121,7 @@ My interests lie in <b>backend engineering, Linux servers, and cybersecurity</b>
 ## ⚡ Code Philosophy
 
 <p align="center">
-<b>“Build with agentic. Secure with discipline.”</b>
+<b>“Build with vibe. Secure with discipline.”</b>
 </p>
 
 <!-- ========================= FOOTER ========================= -->
