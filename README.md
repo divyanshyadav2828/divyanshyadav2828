@@ -3,7 +3,7 @@
 
 <!-- ========================= TYPING ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=780&lines=Vibe+C%C3%B8der+%F0%9F%8E%A7;Cybersecurity+Enthusiast;Node.js+Backend+Developer;Linux+%26+Server+Explorer;Aspiring+CISO" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=780&lines=agentic+C%C3%B8der+%F0%9F%8E%A7;Cybersecurity+Enthusiast;Node.js+Backend+Developer;Linux+%26+Server+Explorer;Aspiring+CISO" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👨‍💻 Professional Summary
 
 <p align="center">
-I am a <b>Vibe Coder 🎧</b> who enjoys building <b>secure, efficient, and real-world systems</b>.<br/>
+I am a <b> Agentic AI Engineer  🎧</b> who enjoys building <b>secure, efficient, and real-world systems</b>.<br/>
 My interests lie in <b>backend engineering, Linux servers, and cybersecurity</b>, with a long-term vision of contributing to <b>enterprise-scale secure infrastructures</b>.
 </p>
 
@@ -121,7 +121,7 @@ My interests lie in <b>backend engineering, Linux servers, and cybersecurity</b>
 ## ⚡ Code Philosophy
 
 <p align="center">
-<b>“Build with vibe. Secure with discipline.”</b>
+<b>“Build with agentic. Secure with discipline.”</b>
 </p>
 
 <!-- ========================= FOOTER ========================= -->
